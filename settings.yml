@@ -1,0 +1,13 @@
+telegram:
+  api_id: 11111
+  api_hash: 'asdfgasd'
+  phone: '+79991234567'
+  username: 'matsukich'
+  test_users:
+    - 'aaaaaaaa'
+    - 'bbbbbbbb'
+
+vk:
+  token: 'abc123'
+  user_id: 123
+  images_path: '/home/dir/images'
